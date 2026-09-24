@@ -29,19 +29,19 @@ npm run dev
 - READ ALL
 ![Read](./prints/read_all.png)
 - BUSCAR POR ID
-![Find](./busca_id.png)
+![Find](./prints/busca_id.png)
 - BUSCAR POR CIDADE
-![Find](./busca_cidade.png)
+![Find](./prints/busca_cidade.png)
 - BUSCAR POR EVENTO
-![Find](./busca_tipo.png)
+![Find](./prints/busca_tipo.png)
 - UPDATE
-![Update](./update.png)
+![Update](./prints/update.png)
 - DELETE
-![Delete](./delete.png)
+![Delete](./prints/delete.png)
 
 ---
 
 ## Cliente
-![Formulário](./web.png)
+![Formulário](./prints/web.png)
 - Resposta:<br>
-![Formulário](./envio.png)
+![Formulário](./prints/envio.png)
