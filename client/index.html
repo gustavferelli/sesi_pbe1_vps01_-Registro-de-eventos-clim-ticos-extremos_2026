@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eventos Climáticos</title>
+</head>
+<body>
+    <header><h1>Cadastro de Eventos Climáticos</h1></header>
+    <main>
+        <form action="http://localhost:3000/eventos" method="post">
+            <input type="text" name="cidade" placeholder="Cidade" required>
+            <input type="text" name="tipo_evento" placeholder="Tipo de evento" required>
+            <input type="text" name="temperatura_maxima" placeholder="Temperatura máxima" required>
+            <input type="date" name="data" required>
+            <input type="text" name="nivel_impacto" placeholder="Nível de impacto" required>
+            <input type="submit" value="Enviar">
+        </form>
+    </main>
+    <footer><h2>by gustavferelli</h2></footer>
+</body>
+</html>
